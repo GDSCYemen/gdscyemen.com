@@ -10,13 +10,8 @@
 user/*
 # ... except config sample
 !user/config-sample.php
-# ... core plugins
-!user/plugins/hyphens-in-urls/
-!user/plugins/random-bg/
-!user/plugins/random-shorturls/
-!user/plugins/sample-page/
-!user/plugins/sample-plugin/
-!user/plugins/sample-toolbar/
+# ... plugins
+!user/plugins/
 # ... example pages
 !user/pages/examplepage.php
 # ... and index.html files
